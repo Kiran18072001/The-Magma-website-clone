@@ -1,0 +1,565 @@
+/* 1096px */
+
+@media screen and (max-width: 1096px) {
+    /* Adjusting Page-12 */
+
+    #page12 {
+        height: 50vh;
+    }
+
+    .page12-inner {
+        left: 20%;
+        top: 20%;
+    }
+
+    #page12 h1 {
+        font-size: 4rem;
+        font-weight: 400;
+    }
+
+    #page12 p {
+        font-size: 1.3rem;
+    }
+
+}
+
+@media screen and (max-width: 982px) {
+
+    /* Page-1 */
+    .btm-div button {
+        width: 23vw;
+    }
+
+    #page4 {
+        height: 130vh;
+    }
+
+    #page4 h3 {
+        margin-bottom: 30px;
+        margin-left: 12vw;
+        font-weight: 300;
+    }
+
+    #page4 p {
+        width: 80vw;
+        text-align: left;
+        font-size: 3.4rem;
+        margin-left: 12vw;
+    }
+
+
+    /* Page-7 */
+    .page-7-cir {
+        left: 60%;
+    }
+
+    .page8-inner button {
+        width: 21vw;
+    }
+
+    /* Page-9 */
+    #page9 {
+        width: 100vw;
+        height: 120vh;
+        position: relative;
+        background-color: #0a3cce;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1vw;
+        color: #fff;
+    }
+
+    .left h1 {
+        font-size: 5.5rem;
+        font-weight: 300;
+        letter-spacing: -1vh;
+        margin-bottom: 5vh;
+    }
+
+    #page9 img {
+        width: 90vw;
+        height: 70vh;
+        margin-left: 5vw;
+        border-radius: 18px;
+    }
+
+    /* Page-10 */
+    #page10 {
+        height: 160vh;
+        align-items: center;
+    }
+
+    #page10 .top {
+        margin-bottom: 60px;
+        width: 100vw;
+        position: relative;
+        margin-right: 30px;
+        left: 3vw;
+    }
+
+    .top h3 {
+        font-size: 3.7rem;
+    }
+
+    .top p {
+        width: 100vw;
+        font-size: 3vw;
+        margin-right: 30px;
+        line-height: 50px;
+    }
+
+    /* Adjusting Page-11 */
+    #page11 {
+        height: 250vh;
+    }
+
+    #page11 h1 {
+        position: relative;
+        bottom: 50vh;
+        left: 5vw;
+    }
+
+    .page11-box {
+        display: flex;
+        flex-direction: column;
+        /* position: absolute; */
+    }
+
+    .page11-inner {
+        gap: 30vh;
+    }
+
+    .page11-box .left {
+        width: 80%;
+    }
+
+    .page11-box .right {
+        width: 90vw;
+    }
+
+    .page11-box .right h3 {
+        font-size: 2.5rem;
+        font-weight: 400;
+    }
+
+    .page11-box .right p {
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+
+    .page11-box .left img {
+        width: 80vw;
+        height: 35vh;
+    }
+
+    #page11 button {
+        margin-top: 10vh;
+        padding: 15px 20px;
+        width: 15vw;
+    }
+
+    /* Page-13 */
+    #page13 button {
+        width: 20vw;
+    }
+
+    /* Page-15 */
+    #page15 {
+        height: 70vh;
+        width: 100vw;
+        flex-direction: column;
+        padding: 10vh 5vh;
+    }
+
+    #page15 .left {
+        display: flex;
+        width: 70vw;
+        justify-content: start;
+        gap: 30vw;
+
+    }
+
+    .right h1 {
+        color: #fff;
+        font-size: 2rem;
+        margin-bottom: 30px;
+        font-weight: 400;
+    }
+
+    .right .email {
+        width: 90vw;
+    }
+}
+
+@media screen and (max-width: 686px) {
+
+    /* Page-2 */
+    .page2 {
+        height: 80vh;
+        width: 100vw;
+    }
+
+    .page2 h2 {
+        font-weight: 400;
+        margin-left: 5vw;
+        font-size: 4vw;
+    }
+
+    .page2 h1 {
+        margin-left: 5vw;
+        width: 90vw;
+        font-size: 7vw;
+    }
+
+    /* Page-4 */
+
+    #page4 {
+        width: 100vw;
+        height: 140vh;
+    }
+
+    #page4 h3 {
+        margin-bottom: 30px;
+        margin-left: 5vw;
+        font-weight: 300;
+    }
+
+    #page4 p {
+        width: 80vw;
+        text-align: left;
+        font-size: 6vw;
+        line-height: 50px;
+        margin-left: 5vw;
+    }
+
+    /* Page-6 */
+    #page6 {
+        width: 100vw;
+        height: 130vh;
+    }
+
+    #page6 h3 {
+        margin-bottom: 30px;
+        margin-left: 12vw;
+        font-weight: 300;
+        font-size: 4vw;
+    }
+
+    #page6 p {
+        width: 80vw;
+        text-align: left;
+        font-size: 7vw;
+        line-height: 50px;
+        margin-left: 12vw;
+    }
+
+    /* Page-7 */
+
+    .page-7-cir {
+        left: 70%;
+    }
+
+    /* Page-9 */
+    #page9 img {
+        width: 90vw;
+        height: 50vh;
+    }
+
+    .left h1 {
+        margin-left: 3.5vw;
+    }
+
+    /* page10 */
+    #page10 {
+        height: 250vh;
+    }
+
+    .top p {
+        width: 100vw;
+        font-size: 5vw;
+        margin-right: 30px;
+        line-height: 50px;
+    }
+
+    /* Adjusting Page-12 */
+
+    #page12 {
+        height: 80vh;
+    }
+
+    .page12-inner {
+        left: 3%;
+        top: 20%;
+        /* margin: 20px 20px; */
+        width: 100%;
+    }
+
+    #page12 h1 {
+        font-size: 6rem;
+    }
+
+    #page12 p {
+        font-size: 1.7rem;
+        line-height: 50px;
+    }
+
+    /* Page-13 */
+    #page13 button {
+        width: 30vw;
+    }
+
+    /* Page-14 */
+    .media {
+        padding: 5vh 2vw;
+        justify-content: space-between;
+    }
+
+    .media h3 {
+        font-size: 2rem;
+    }
+
+    .media i {
+        font-size: 2rem;
+    }
+
+}
+
+@media screen and (max-width: 623px) {
+
+    .btm-div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btm-div button {
+        width: 35vw;
+    }
+
+    .page8-inner button {
+        width: 40vw;
+    }
+
+    #page11 button {
+        margin-top: 20vh;
+        width: 25vw;
+    }
+}
+
+@media screen and (max-width: 546px) {
+
+    /* Adjusting Page-11 */
+    #page11 {
+        height: 250vh;
+    }
+
+    #page11 h1 {
+        position: relative;
+        bottom: 50vh;
+        left: 2vw;
+    }
+
+    .page11-box {
+        display: flex;
+        flex-direction: column;
+        /* position: absolute; */
+    }
+
+    .page11-inner {
+        gap: 30vh;
+    }
+
+    .page11-box .left {
+        width: 100%;
+    }
+
+    .page11-box .right {
+        width: 100vw;
+    }
+
+    .page11-box .right h3 {
+        font-size: 2.5rem;
+        font-weight: 400;
+        position: relative;
+        right: 7vw;
+    }
+
+    .page11-box .right p {
+        font-size: 1.5rem;
+        font-weight: 500;
+        position: relative;
+        right: 7vw;
+    }
+
+    .page11-box .left img {
+        width: 90vw;
+        height: 25vh;
+        position: relative;
+        right: 5vw;
+    }
+
+    #page11 button {
+        margin-top: 20vh;
+        padding: 15px 20px;
+        width: 35vw;
+    }
+
+    /* Page-13 */
+    #page13 {
+        height: 100vh;
+    }
+
+    #page13 button {
+        width: 40vw;
+    }
+
+    /* Last page */
+    .right .email{
+        width: 80vw;
+    }
+}
+
+@media screen and (max-width: 448px) {
+    /* nav button */
+    .right button{
+        padding: 1vh 3vw;
+    }
+
+    .page1 nav{
+        padding: 0px 10px;
+    }
+
+    .btm-div button {
+        width: 45vw;
+    }
+
+    /* inner circle */
+    .page-7-cir {
+        top: 70%;
+        left: 90%;
+    }
+
+    /* Page-12 */
+    #page12 {
+        height: 60vh;
+    }
+
+    .page12-inner {
+        left: 3%;
+        top: 10%;
+        /* margin: 20px 20px; */
+        width: 100%;
+    }
+
+    #page12 h1 {
+        font-size: 8vw;
+    }
+
+    #page12 p {
+        font-size: 6vw;
+        line-height: 50px;
+    }
+
+    /* Page-9 */
+    #page9{
+        width: 100vw;
+        height: 70vh;
+    }
+    #page9 img{
+        width: 80vw;
+        height: 30vh;
+        border-radius: 18px;
+    }
+
+    /* Page-10 */
+    #page10 {
+        height: 270vh;
+    }
+
+    .top p {
+        margin-left: 3vw;
+        color: #fff;
+    }
+
+    .top h3{
+        margin-left: 3vw
+    }
+
+    /* Page-11 */
+    #page11 {
+        height: 300vh;
+    }
+
+    #page11 h1 {
+        position: relative;
+        bottom: 70vh;
+        left: 2vw;
+    }
+
+    .page11-box {
+        display: flex;
+        flex-direction: column;
+        /* position: absolute; */
+    }
+
+    .page11-inner {
+        gap: 30vh;
+    }
+
+    .page11-box .left {
+        width: 100%;
+    }
+
+    .page11-box .right {
+        width: 100vw;
+    }
+
+    .page11-box .right h3 {
+        font-size: 8vw;
+        font-weight: 400;
+        position: relative;
+        right: 7vw;
+    }
+
+    .page11-box .right p {
+        font-size: 8vw;
+        font-weight: 500;
+        position: relative;
+        right: 7vw;
+    }
+
+    .page11-box .left img {
+        width: 90vw;
+        height: 25vh;
+        position: relative;
+        right: 5vw;
+    }
+
+    #page11 button {
+        margin-top: 50vh;
+        padding: 15px 20px;
+        width: 35vw;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    /* Page-7 circle */
+
+    .page-7-cir {
+        top: 80%;
+        left: 110%;
+    }
+
+    /* Page-13 */
+    #page13 h1{
+        font-size: 20vw;
+    }
+
+    #page13 button{
+        width: 50vw;
+    }
+
+    #page10 {
+        height: 310vh;
+    }
+}
